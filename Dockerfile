@@ -1,1 +1,1 @@
-FROM hiko/mojo-runtime:1.0
+FROM hiko/perl-runtime:1.0
